@@ -1,8 +1,8 @@
-# dei-audit-toolkit
+# equity-audit-toolkit
 
 > An open framework for auditing digital products for equity gaps.
 
-A practical methodology, not a manifesto. Built from three years of teaching DS291 (Exploring DEI in Technology) at Boston University's BU Spark!, refined against real product audits in fintech and education.
+A practical methodology, not a manifesto. Built from three years of teaching equity-centered technology design in DS291 at Boston University's BU Spark!, refined against real product audits in fintech and education.
 
 ## What's inside
 
@@ -30,9 +30,9 @@ The audit walks a product team through five lenses:
 
 Each lens has a worksheet, a set of artifacts to gather, and a maturity rubric.
 
-## Why "equity-centered," not "DEI"
+## Why "equity-centered"
 
-DEI as a label has become a target. The work hasn't changed. Renaming the toolkit, not the practice.
+Labels shift; the work hasn't changed. This toolkit was renamed from its original title to name the practice plainly: centering the people a product can leave out.
 
 ## Status
 
